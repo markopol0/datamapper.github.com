@@ -138,7 +138,7 @@ p {
     font-size: 0.8em; }
 
 pre {
-  margin: 0 29px 2em 30px;
+  margin: 0;
   background: #0c182a;
   border: 1px solid #26518a;
   padding: 1em 15px;
@@ -149,7 +149,7 @@ pre {
   font-size: 12px; }
 
 .highlight {
-  margin: 0 29px 2em 30px;
+  margin: 0;
   padding: 1em 15px; }
 
 .puff {
@@ -388,7 +388,7 @@ dd {
     font-size: 0.9em; }
 
 table {
-  margin: 15px 29px 29px 30px;
+  margin: 0px;
   width: 90%; }
   table tr.head {
     height: 2em;
